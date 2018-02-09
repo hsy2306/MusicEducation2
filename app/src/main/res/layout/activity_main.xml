@@ -30,7 +30,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-
+            android:text='배움모드'
             android:textSize="20sp" />
 
         <Button
@@ -38,7 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-
+            android:text='테스트모드'
             android:textSize="20sp" />
 
         <Button
@@ -46,7 +46,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-
+            android:text='자유모드'
             android:textSize="20sp" />
 
     </LinearLayout>
