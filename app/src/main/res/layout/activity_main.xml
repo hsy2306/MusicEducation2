@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -30,24 +30,24 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="배움모드"
-            android:textSize="20dp" />
+            android:text='배움모드'
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/test"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="테스트모드"
-            android:textSize="20dp" />
+            android:text='테스트모드'
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/free"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="자유모드"
-            android:textSize="20dp" />
+            android:text='자유모드'
+            android:textSize="20sp" />
 
     </LinearLayout>
 
